@@ -27,8 +27,3 @@ This repository contains a Solidity smart contract for managing student registra
 - `getTotalRegisteredStudents`: Get the total count of registered students
 - `getInPersonStudentsCount`: Get the count of in-person students
 - `getOnlineStudentsCount`: Get the count of online students
-
-
-## Note
-
-This contract is for educational purposes and has not been audited for production use. Always ensure proper testing and auditing before deploying any smart contract to a live blockchain network.
